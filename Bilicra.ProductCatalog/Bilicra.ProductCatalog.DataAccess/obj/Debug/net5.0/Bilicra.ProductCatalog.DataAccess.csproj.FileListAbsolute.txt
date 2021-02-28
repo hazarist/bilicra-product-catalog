@@ -1,0 +1,15 @@
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\bin\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.deps.json
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\bin\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\bin\Debug\net5.0\ref\Bilicra.ProductCatalog.DataAccess.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\bin\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.pdb
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\bin\Debug\net5.0\Bilicra.ProductCatalog.Common.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\bin\Debug\net5.0\Bilicra.ProductCatalog.Common.pdb
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.csprojAssemblyReference.cache
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.AssemblyInfo.cs
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.csproj.CopyComplete
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\ref\Bilicra.ProductCatalog.DataAccess.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.DataAccess\obj\Debug\net5.0\Bilicra.ProductCatalog.DataAccess.pdb

@@ -1,0 +1,12 @@
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\bin\Debug\net5.0\Bilicra.ProductCatalog.Common.deps.json
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\bin\Debug\net5.0\Bilicra.ProductCatalog.Common.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\bin\Debug\net5.0\ref\Bilicra.ProductCatalog.Common.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\bin\Debug\net5.0\Bilicra.ProductCatalog.Common.pdb
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\obj\Debug\net5.0\Bilicra.ProductCatalog.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\obj\Debug\net5.0\Bilicra.ProductCatalog.Common.AssemblyInfoInputs.cache
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\obj\Debug\net5.0\Bilicra.ProductCatalog.Common.AssemblyInfo.cs
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\obj\Debug\net5.0\Bilicra.ProductCatalog.Common.csproj.CoreCompileInputs.cache
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\obj\Debug\net5.0\Bilicra.ProductCatalog.Common.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\obj\Debug\net5.0\ref\Bilicra.ProductCatalog.Common.dll
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\obj\Debug\net5.0\Bilicra.ProductCatalog.Common.pdb
+C:\Users\dogukan.caktu\source\repos\Bilicra.ProductCatalog\Bilicra.ProductCatalog.Common\obj\Debug\net5.0\Bilicra.ProductCatalog.Common.csprojAssemblyReference.cache
